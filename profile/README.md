@@ -5,3 +5,5 @@ Providing non-custodial infrastructure as a blockchain validator. Working on pub
 
 peace and development to all
 
+[Twitter](https://x.com/Beasnayd) | [Medium] () | menoniouida650@gmail.com
+
